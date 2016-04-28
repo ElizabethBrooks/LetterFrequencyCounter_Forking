@@ -3,7 +3,7 @@ Date Modified: April 28, 2016
 File: CS470 Lab2
 
 #LetterFrequencyCounter_Forking
-C program to determine the frequency of letter pairs (captial and lower case) in a given file, using forking.
+C program to determine the frequency of letter pairs (capital and lower case) in a given file, using forking.
 
 ##To compile:
 $ gcc -o test LetterFrequencyCounter_Forking.c
